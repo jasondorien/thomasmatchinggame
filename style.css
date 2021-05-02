@@ -7,7 +7,7 @@
     margin: 20px auto;
     align-content: center;
 }
-#scoreContainer {
+.scoreContainer {
     display: block;
     border-style: solid;
     margin: 50px auto;
