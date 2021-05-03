@@ -7,6 +7,13 @@
     margin: 20px auto;
     align-content: center;
 }
+
+.banner {
+    display:block;
+    margin: 0 auto;
+    width: 50%;
+}
+
 .scoreContainer {
     display: block;
     border-style: solid;
